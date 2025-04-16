@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout the code from GitHub
-                git 'https://github.com/your-username/your-repository.git'
+                git 'https://github.com/durgavihashinip/CI-CD.git'
             }
         }
 
