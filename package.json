@@ -1,0 +1,14 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "description": "A simple HTML, CSS, and JavaScript project with basic testing",
+    "main": "index.js",
+    "scripts": {
+      "test": "node test.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "devDependencies": {},
+    "dependencies": {}
+  }
+  
